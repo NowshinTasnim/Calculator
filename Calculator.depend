@@ -1,0 +1,191 @@
+# depslib dependency file v1.0
+1528457665 source:f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\main.cpp
+	"main.h"
+
+1528457672 f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\main.h
+	"common.h"
+	"menu.h"
+	"norm.h"
+	"comp.h"
+	"mat.h"
+	"vect.h"
+
+1528370179 f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\menu.h
+
+1528454808 f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\complex.h
+	"common.h"
+
+1528448661 source:f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\menu.cpp
+	"common.h"
+
+1528455115 source:f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\matrix.cpp
+	"common.h"
+	"matrix.h"
+
+1528453865 f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\matrix.h
+	"common.h"
+
+1528454923 source:f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\complex.cpp
+	"complex.h"
+	"common.h"
+
+1528446111 f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\mat.h
+
+1527852428 f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\define.h
+	<iostream>
+
+1528439849 f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\common.h
+	<iostream>
+	<string>
+	<math.h>
+	<time.h>
+	<vector>
+	<list>
+	<map>
+	<iomanip>
+	<sstream>
+	<fstream>
+	<string>
+	<limits>
+	<ios>
+	<typeinfo>
+	<stdlib.h>
+
+1528452581 source:f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\mat.cpp
+	"common.h"
+	"matrix.h"
+
+1528277185 f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\norm.h
+
+1528443860 source:f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\norm.cpp
+	"common.h"
+
+1528282448 f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\exit.h
+
+1528443824 source:f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\comp.cpp
+	"common.h"
+	"complex.h"
+
+1528389212 f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\comp.h
+
+1528454499 source:f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\vect.cpp
+	"common.h"
+	"vector.h"
+
+1528455254 f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\vector.h
+	"common.h"
+
+1528453153 f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\vect.h
+
+1528457732 source:f:\class_lecture\2-1\cse 2102-oop\project idea\calculator\vector.cpp
+	"common.h"
+	"vector.h"
+
+1529982766 source:f:\class_lecture\2-1\cse 2102-oop\project\calculator\main.cpp
+	"main.h"
+
+1529982264 f:\class_lecture\2-1\cse 2102-oop\project\calculator\main.h
+	"common.h"
+	"comp.h"
+	"exit.h"
+	"mat.h"
+	"menu.h"
+	"norm.h"
+	"stat.h"
+	"vect.h"
+	"combi.h"
+	"base.h"
+
+1529982242 f:\class_lecture\2-1\cse 2102-oop\project\calculator\common.h
+	<bits/stdc++.h>
+	<fstream>
+	<iomanip>
+	<ios>
+	<iostream>
+	<limits>
+	<math.h>
+	<string>
+	<stdlib.h>
+	<sstream>
+	<time.h>
+	<typeinfo>
+	<vector>
+
+1528370179 f:\class_lecture\2-1\cse 2102-oop\project\calculator\menu.h
+
+1528277185 f:\class_lecture\2-1\cse 2102-oop\project\calculator\norm.h
+
+1528389212 f:\class_lecture\2-1\cse 2102-oop\project\calculator\comp.h
+
+1528446111 f:\class_lecture\2-1\cse 2102-oop\project\calculator\mat.h
+
+1528453153 f:\class_lecture\2-1\cse 2102-oop\project\calculator\vect.h
+
+1529982783 source:f:\class_lecture\2-1\cse 2102-oop\project\calculator\menu.cpp
+	"common.h"
+
+1529982859 source:f:\class_lecture\2-1\cse 2102-oop\project\calculator\norm.cpp
+	"common.h"
+
+1529983050 source:f:\class_lecture\2-1\cse 2102-oop\project\calculator\vector.cpp
+	"common.h"
+	"vector.h"
+
+1528885088 f:\class_lecture\2-1\cse 2102-oop\project\calculator\vector.h
+	"common.h"
+
+1529934834 source:f:\class_lecture\2-1\cse 2102-oop\project\calculator\complex.cpp
+	"complex.h"
+	"common.h"
+
+1529934758 f:\class_lecture\2-1\cse 2102-oop\project\calculator\complex.h
+	"common.h"
+
+1529983840 source:f:\class_lecture\2-1\cse 2102-oop\project\calculator\mat.cpp
+	"common.h"
+	"matrix.h"
+
+1529934630 f:\class_lecture\2-1\cse 2102-oop\project\calculator\matrix.h
+	"common.h"
+
+1530435763 source:f:\class_lecture\2-1\cse 2102-oop\project\calculator\matrix.cpp
+	"common.h"
+	"matrix.h"
+
+1529982576 source:f:\class_lecture\2-1\cse 2102-oop\project\calculator\comp.cpp
+	"common.h"
+	"complex.h"
+
+1529983191 source:f:\class_lecture\2-1\cse 2102-oop\project\calculator\vect.cpp
+	"common.h"
+	"vector.h"
+
+1529898668 source:f:\class_lecture\2-1\cse 2102-oop\project\calculator\statistic.cpp
+	"common.h"
+	"statistic.h"
+
+1529938341 f:\class_lecture\2-1\cse 2102-oop\project\calculator\statistic.h
+	"common.h"
+
+1529982929 source:f:\class_lecture\2-1\cse 2102-oop\project\calculator\stat.cpp
+	"common.h"
+	"statistic.h"
+
+1528473714 f:\class_lecture\2-1\cse 2102-oop\project\calculator\stat.h
+
+1528605450 f:\class_lecture\2-1\cse 2102-oop\project\calculator\exit.h
+
+1529928611 f:\class_lecture\2-1\cse 2102-oop\project\calculator\combi.h
+
+1529982742 source:f:\class_lecture\2-1\cse 2102-oop\project\calculator\combi.cpp
+	"common.h"
+	"combinatorix.h"
+
+1529935625 f:\class_lecture\2-1\cse 2102-oop\project\calculator\combinatorix.h
+	"common.h"
+
+1529938018 f:\class_lecture\2-1\cse 2102-oop\project\calculator\base.h
+
+1529982674 source:f:\class_lecture\2-1\cse 2102-oop\project\calculator\base.cpp
+	"common.h"
+
